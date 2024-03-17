@@ -670,7 +670,19 @@ a{
      
      
      }
-     
+
+
+    #skills .row .col-6.ts h2{
+    text-align: center;
+    margin-bottom: 50px;
+}
+
+
+    #skills .row .col-6.ps h2{
+    text-align: center;
+    margin-top: 50px;
+}
+
 
 
 
