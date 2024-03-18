@@ -636,13 +636,13 @@ footer h6 span{
 
     
     #home .container-fluid{
-        height: 55vh;
+        height: 75vh;
       
 
     }
 
     #home .container h5{
-        padding-top: 40px;
+        padding-top: 60px;
     }
 
 
@@ -761,7 +761,7 @@ footer h6 span{
 @media (min-width: 500px) and (max-width: 799px) {
     
     #home .container-fluid{
-        height: 50vh;
+        height: 55vh;
       
 
     }
