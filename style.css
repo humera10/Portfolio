@@ -673,7 +673,9 @@ footer h6 span{
 
 @media (min-width: 300px) and (max-width: 499px) {
 
-
+.navbar-brand img{
+        height: 20px;
+    }
 
     
     #home .container-fluid{
